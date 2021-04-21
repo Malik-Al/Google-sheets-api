@@ -1,0 +1,16 @@
+{
+  "name": "google-sheets-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "spreadsheets.js",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
